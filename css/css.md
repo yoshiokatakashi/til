@@ -1,2 +1,2 @@
-*『TailwindCSS実践入門』
+* 『TailwindCSS実践入門』
 
