@@ -1,1 +1,1 @@
-*『実践Next.js』
+* 『実践Next.js』
